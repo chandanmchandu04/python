@@ -1,19 +1,24 @@
-1. **02_basics.py**  
-   This script demonstrates:
-   - Loop operations with `for` and `while`.
-   - Use of `continue` and `break` statements to control loop execution.
-   - Conditional statements to compare values and output results.  
-   Example highlights:
-     - Skipping a specific element ("virat") in a list.
-     - Breaking a loop when a specific condition is met.
-     - Using a `while` loop with conditional logic.
 
-2. **basics.py**  
-   This script includes:
-   - Iterating over lists and ranges.
-   - Nesting loops for deeper iteration.
-   - Exploring data types within loops.  
-   Example highlights:
-     - Printing all numbers in a list and their types.
-     - Nested iteration over ranges.
-     - Handling a list of strings.
+### Key Topics Covered:
+
+- **Python Basics (01_basics):** Introduction to Python syntax, variables, data types, and basic operations.
+
+- **Conditionals (02_conditionals):** Working with `if`, `else`, and `elif` statements, solving problems using conditionals.
+
+- **Loops (03_loops):** Using `for` and `while` loops to iterate over data.
+
+- **Functions (05_functions):** Defining and using functions, with sample projects demonstrating function usage.
+
+- **Object-Oriented Programming (06_oops, 13_oops):** Concepts like classes, inheritance, encapsulation, and decorators.
+
+- **Error Handling (07_error_handling):** Techniques for handling exceptions and errors in Python.
+
+- **SQLite3 Database (08_database_sqlite3):** Using SQLite3 for database management and operations.
+
+- **Data Types and Strings (09_datatypes, 10_stringfun):** Working with different Python data types and string manipulation.
+
+- **Logging and Debugging (11_logging_Debugging):** Using Python's logging library to track and debug applications.
+
+- **Modules and Serialization (12_modules_serialization):** Working with Python modules and serializing data using JSON.
+
+- **Libraries (14_libraries):** Data manipulation with Pandas and NumPy, and visualization with Matplotlib.
